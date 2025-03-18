@@ -1,0 +1,32 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Gradle
+.gradle/
+build/
+out/
+!gradle-wrapper.jar
+
+# Maven
+target/
+.mvn/
+mvnw
+mvnw.cmd
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VSCode
+.vscode/
+.settings/
+bin/
+
+# Local Maven repository (optional)
+.m2/
+
+# Logs and temp files
+*.log
+*.tmp
